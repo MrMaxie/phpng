@@ -1,5 +1,5 @@
 {
-  "name": "phpx",
+  "name": "phpng",
   "version": "0.0.1",
   "description": "Next-gen PHP transpiler",
   "main": "dist/main.js",
